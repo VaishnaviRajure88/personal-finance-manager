@@ -14,6 +14,32 @@ A Python-based personal finance application built with Streamlit to help users m
 - **Interactive Charts:** Visualize spending patterns using Plotly.
 - **SQLite Database:** Store transaction records locally.
 
+## 📸 Application Screenshots
+
+### Dashboard
+![Personal Finance Manager Dashboard](screenshots/dashboard.png)
+
+### Add Transaction
+![Add Transaction Form](screenshots/add_transaction.png)
+
+### View Transactions
+![Transaction History](screenshots/transaction.png)
+
+### Edit and Delete Transactions
+![View, Edit and Delete Transactions](screenshots/view_edit_delete%20transaction.png)
+
+### Expense Forecast
+![Expense Forecast](screenshots/expense_forecast.png)
+
+### Expense Prediction
+![Expense Prediction](screenshots/expense_prediction.png)
+
+### CSV Import and Export
+![CSV Import and Export](screenshots/csv%20import%20export.png)
+
+
+
+
 ## Technologies Used
 
 - Python
